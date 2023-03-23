@@ -1,0 +1,10 @@
+       HTTP = Hyper text transfer protocol.
+       
+       1.1  =Is the protocol used to transfer data over the WEB.
+            =Internet leadscaps was constantly changing write website becoming more dynamic and heavy.
+            =TCP connect with creating between link and server.
+
+       2.0  =single TCP connection be used.
+            =In which stream are created and it's faster no need to multiple TCP connection.
+            =In that no one resource blocks any other resources.
+
